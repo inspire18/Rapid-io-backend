@@ -23,7 +23,7 @@ mongoose
 
 
 // schema
-const userSchema = mongoose.Schema({``
+const userSchema = mongoose.Schema({
   firstName: String,
   lastName: String,
   email: {
